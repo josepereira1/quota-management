@@ -1,4 +1,4 @@
-# quota-management
+# quotas-management
 First project of Software Systems Development
 
 # Team
