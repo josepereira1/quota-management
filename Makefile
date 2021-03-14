@@ -1,3 +1,6 @@
+run:
+	java -jar quotas.jar
+
 cm: st up
 	git add -A 
 	git commit -m "auto-commit"
